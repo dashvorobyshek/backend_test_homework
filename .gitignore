@@ -1,2 +1,2 @@
 #Игонорировать файл text.doc
-text.doc
+*.doc
