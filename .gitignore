@@ -1,2 +1,5 @@
 #Игонорировать файл text.doc
 *.doc
+
+new.py
+text.txt
